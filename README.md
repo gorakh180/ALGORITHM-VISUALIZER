@@ -1,4 +1,7 @@
 # ALGORITHM-VISUALIZER
+
+
+Live: https://beamish-pegasus-c6340e.netlify.app/
 Three section 1) searching algorithm 2)sorting algorithm 3) about us
 
 Section 1: Searching
